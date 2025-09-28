@@ -2,7 +2,6 @@
 
 A Convolutional Neural Network (CNN) project to classify images of dogs and cats.
 
-
 ## Dataset
 
 The dataset consists of images of dogs and cats, divided into training and test sets.  
