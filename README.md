@@ -13,7 +13,7 @@ The dataset consists of images of dogs and cats, divided into training and test 
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SwathiPriya37/dogs-vs-cats_classifier.git
 cd dogs-vs-cats_classifier
 ```
 2. Install the required packages:
@@ -38,4 +38,4 @@ jupyter notebook dogs-vs-cats_classifier.ipynb
 - Matplotlib
 
 ## Author
-Swathi Priya
+Swathi Priya R   
